@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Acaymos
-- 👀 I’m interested in cybersec and industrial networks
-- 🌱 I’m currently learning advanced cybersec 
-- 📫 How to reach me : hugo.lemarchand@sts-sio-caen.info
+- Hi, I’m @Acaymos
+- I’m interested in cybersecurity and its implementation in various domains
 
 <!---
 Acaymos/Acaymos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
